@@ -5,4 +5,4 @@ App Screens
 -------
 | Registration Screen        | SMS screen           | 
 | ------------- | -----:|
-| <img src ="page1-ss" height = "600" width = "320">     | <img src ="page2-ss" height = "600" width = "320">|
+| <img src ="page1-ss.jpg" height = "600" width = "320">     | <img src ="page2-ss.jpg" height = "600" width = "320">|
