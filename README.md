@@ -10,3 +10,8 @@ App Screens
 | OTP Page        | Verification Page          | 
 | ------------- | -----:|
 | <img src ="page2-ss.jpg" height = "600" width = "300">      | <img src ="page3-ss.jpg" height = "600" width = "300"> |
+
+# About the App 🕵️
+After granting the SMS permission to this app <br />
+A four-digit OTP is send to the registered number <br />
+After entering the correct OTP the Registration is sucessful
